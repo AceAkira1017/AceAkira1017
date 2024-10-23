@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AceAkira1017.AceAkira1017" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ace+Gerome+Calaay!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ace+Gerome+Calaay!;+Welcome+to+my+profile!;+Software+Developer;+Web+Developer+from+Philippines" />
 </h1>
 
-<h3 align="center">A passionate Software Developer and a Web Developer from Philippines 🇵🇭</h3>
+<h3 align="center">A passionate Software Developer and Web Developer from Philippines 🇵🇭</h3>
 
 <br/>
 
@@ -17,9 +17,11 @@
 💬 Ask me about **Node.js, React, Java... or anything [here](https://github.com/AceAkira1017/AceAkira1017/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
  
+ ![Fun Fact](https://img.shields.io/badge/Fun%20Fact-Game%20of%20Thrones%20cloaks%20are%20from%20IKEA-blue)
+
+</div>
+
 <div align="center"> 
   <a href="mailto:akiratakuyashi09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -32,8 +34,12 @@
   </a>
 </div>
 
- <hr/>
- 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AceAkira1017&label=Profile%20views&color=0e75b6&style=flat" alt="AceAkira1017" />
+
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -44,19 +50,36 @@
 <br/>
 <hr/>
 
+<h2 align="center">📊 Skill Proficiency 📊</h2>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jonvicbarcenas/jonvicbarcenas/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img src="https://img.shields.io/badge/HTML5-100%25-orange" />
+  <img src="https://img.shields.io/badge/CSS3-90%25-blue" />
+  <img src="https://img.shields.io/badge/JavaScript-85%25-yellow" />
+  <img src="https://img.shields.io/badge/Node.js-80%25-green" />
+  <img src="https://img.shields.io/badge/React-75%25-blue" />
+</div>
+
+<hr/>
+
+<h2 align="center">🐍 My Contributions 🐍</h2>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://github.com/AceAkira1017/AceAkira1017/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<hr/>
+
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AceAkira1017&theme=darkhub&no-frame=true&row=1&column=7" alt="trophies"/>
+  </a>
 </div>
 
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
+<br/>
+<div align="center">
   <img width=390 height=153.63 src="https://github-readme-streak-stats-humbas-projects.vercel.app?user=AceAkira1017&theme=merko&border_radius=7.4" alt="streak stats"/>
   <img width=390 height=153.63 src="https://git-readme-statz-humbas-projects.vercel.app/api?username=AceAkira1017&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
@@ -64,6 +87,13 @@
 </div>
 
 <br/><br/>
+
+<hr/>
+
+<h2 align="center">🌍 Visitors by Country 🌍</h2>
+<div align="center">
+  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.people.svg" alt="Visitors by country" />
+</div>
 
 <hr/>
 
