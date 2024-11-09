@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AceAkira1017.AceAkira1017" />
+<img align="right" src="https://visitor-badge.imlete.cn/?id=153344910&label=VISITORS&labelColor=444&color=F00&type=pv&style=plastic" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ace+Gerome+Calaay!;+Welcome+to+my+profile!;+Software+Developer;+Web+Developer+from+Philippines" />
