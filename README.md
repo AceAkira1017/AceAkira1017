@@ -1,6 +1,4 @@
-<div align="center">
-    [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AceAkira1017&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-</div>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AceAkira1017&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 <img align="right" src="https://visitor-badge.imlete.cn/?id=153344910&label=VISITORS&labelColor=444&color=F00&type=pv&style=plastic" />
 
