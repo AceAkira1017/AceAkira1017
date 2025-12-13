@@ -29,11 +29,9 @@
 
 <br/>
 
+<details open align="center">
+<summary><b>↓ 🌱 About Me ↓</b></summary>
 <div>
- 
- <h2 align="left"> 
-      🌱 About Me
- </h2>
 
  🎓 **Student (Age 15)** passionate about technology and coding
 
@@ -44,6 +42,7 @@
  🧠 Currently exploring **JavaScript, Node.js, and Web Technologies**
 
 </div>
+</details>
 
 <div align="center"> 
   <a href="mailto:akiratakuyashi09@gmail.com">
