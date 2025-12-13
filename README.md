@@ -28,21 +28,17 @@
 
 ---------
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AceAkira1017&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-
-<img align="right" src="https://visitor-badge.imlete.cn/?id=153344910&label=VISITORS&labelColor=444&color=F00&type=pv&style=plastic" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=35&duration=1000&pause=1000&color=56F70A&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B+;I'm+Ace+Gerome+Cala-ay+;15+y%2Fo+;Aspiring+to+be+Software+Developer;and+Web+Developer." />
 </h1>
 
 <br/>
 
-<div align="center">
+<div>
  
- <h3 align="left"> 
+ <h5 align="left"> 
       🌱 About Me
- </h3>
+ </h5>
 
  🎓 **Student (Age 15)** passionate about technology and coding
 
