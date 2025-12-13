@@ -12,9 +12,8 @@
 
 <details open align="center">
 <summary><b>↓ 🌱 About Me ↓</b></summary>
-<div>
+<div align="left">
 
-<h3 align="left">
  🎓 **Student (Age 15)** passionate about technology and coding
 
  💻 Learning and building projects in Web & Software Development
@@ -22,7 +21,6 @@
  🚀 **Dream:** Become a professional Software Engineer in the future
 
  🧠 Currently exploring **JavaScript, Node.js, and Web Technologies**
-</h3>
 
 </div>
 
@@ -37,7 +35,7 @@
 </div>
 </details>
  
-<br/><br/>
+<hr/>
 
 <details open align="center">
 <summary><b>↓ Total Profile Visitors ↓</b></summary>
@@ -56,9 +54,6 @@
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <br>
 
----------
-
-<br/>
 <hr/>
 
 <h2 align="center">🎧 Spotify Playing</h2>
