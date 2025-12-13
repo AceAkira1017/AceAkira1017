@@ -12,6 +12,7 @@
 
 <details open align="center">
 <summary><b>↓ 🌱 About Me ↓</b></summary>
+
 <div align="left">
 
  🎓 **Student (Age 15)** passionate about technology and coding
@@ -32,6 +33,7 @@
   <a href="https://AceAkira1017.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
+
 </div>
 </details>
  
@@ -56,49 +58,6 @@
 
 <hr/>
 
-<h2 align="center">🎧 Spotify Playing</h2>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31iiuv3aqznamlux2at7phrnbpwa" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">📊 Skill Proficiency 📊</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-100%25-orange" />
-  <img src="https://img.shields.io/badge/CSS3-90%25-blue" />
-  <img src="https://img.shields.io/badge/JavaScript-85%25-yellow" />
-  <img src="https://img.shields.io/badge/Node.js-80%25-green" />
-  <img src="https://img.shields.io/badge/React-75%25-blue" />
-</div>
-
-<hr/>
-
-<h2 align="center">🐍 My Contributions 🐍</h2>
-<div align="center">
-  <img alt="snake eating my contributions" src="https://github.com/jonvicbarcenas/jonvicbarcenas/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<hr/>
-
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AceAkira1017&theme=darkhub&no-frame=true&row=1&column=7" alt="trophies"/>
-  </a>
-</div>
-
-<hr/>
-
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aceakira1017&theme=nightowl" />
 </p>
@@ -113,11 +72,3 @@
 </div>
 
 <br/><br/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
