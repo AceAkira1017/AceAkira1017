@@ -12,7 +12,7 @@
 
 <details open align="center">
 <summary><b>↓ 🌱 About Me ↓</b></summary>
-
+<br/>
 <div align="left">
 
  🎓 **Student (Age 15)** passionate about technology and coding
