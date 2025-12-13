@@ -33,24 +33,24 @@
 <img align="right" src="https://visitor-badge.imlete.cn/?id=153344910&label=VISITORS&labelColor=444&color=F00&type=pv&style=plastic" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ace+Gerome+Calaay!;+Welcome+to+my+profile!;+Software+Developer;+Web+Developer+from+Philippines" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=35&duration=1000&pause=1000&color=56F70A&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B+;I'm+Ace+Gerome+Cala-ay+;15+y%2Fo+;Aspiring+to+be+Software+Developer;and+Web+Developer." />
 </h1>
-
-<h3 align="center">A passionate Software Developer and Web Developer from Philippines 🇵🇭</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ <h3 align="left"> 
+      🌱 About Me
+ </h3>
 
-💬 Ask me about **Node.js, React, Java... or anything [here](https://github.com/AceAkira1017/AceAkira1017/issues)**
+ 🎓 **Student (Age 15)** passionate about technology and coding
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- 
- ![Fun Fact](https://img.shields.io/badge/Fun%20Fact-Game%20of%20Thrones%20cloaks%20are%20from%20IKEA-blue)
+ 💻 Learning and building projects in Web & Software Development
+
+ 🚀 **Dream:** Become a professional Software Engineer in the future
+
+ 🧠 Currently exploring **JavaScript, Node.js, and Web Technologies**
 
 </div>
 
@@ -58,9 +58,7 @@
   <a href="mailto:akiratakuyashi09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/AceAkira1017" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+
   <a href="https://AceAkira1017.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
