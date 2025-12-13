@@ -4,6 +4,41 @@
 
 ---------
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=35&duration=1000&pause=1000&color=56F70A&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B+;I'm+Ace+Gerome+Cala-ay+;15+y%2Fo+;Aspiring+to+be+Software+Developer;and+Web+Developer." />
+</h1>
+
+<br/>
+
+<details open align="center">
+<summary><b>↓ 🌱 About Me ↓</b></summary>
+<div>
+
+<h3 align="left">
+ 🎓 **Student (Age 15)** passionate about technology and coding
+
+ 💻 Learning and building projects in Web & Software Development
+
+ 🚀 **Dream:** Become a professional Software Engineer in the future
+
+ 🧠 Currently exploring **JavaScript, Node.js, and Web Technologies**
+</h3>
+
+</div>
+
+<div align="center"> 
+  <a href="mailto:akiratakuyashi09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+
+  <a href="https://AceAkira1017.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
+</details>
+ 
+<br/><br/>
+
 <details open align="center">
 <summary><b>↓ Total Profile Visitors ↓</b></summary>
 <br>
@@ -23,41 +58,7 @@
 
 ---------
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=35&duration=1000&pause=1000&color=56F70A&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B+;I'm+Ace+Gerome+Cala-ay+;15+y%2Fo+;Aspiring+to+be+Software+Developer;and+Web+Developer." />
-</h1>
-
 <br/>
-
-<details open align="center">
-<summary><b>↓ 🌱 About Me ↓</b></summary>
-<div>
-
- 🎓 **Student (Age 15)** passionate about technology and coding
-
- 💻 Learning and building projects in Web & Software Development
-
- 🚀 **Dream:** Become a professional Software Engineer in the future
-
- 🧠 Currently exploring **JavaScript, Node.js, and Web Technologies**
-
-</div>
-</details>
-
-<div align="center"> 
-  <a href="mailto:akiratakuyashi09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-
-  <a href="https://AceAkira1017.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=AceAkira1017&label=Profile%20views&color=0e75b6&style=flat" alt="AceAkira1017" />
-
 <hr/>
 
 <h2 align="center">🎧 Spotify Playing</h2>
