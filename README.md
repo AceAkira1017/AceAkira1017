@@ -67,7 +67,6 @@
   <img width=390 height=153.63 align="center" src="https://git-readme-statz-humbas-projects.vercel.app/api/top-langs/?username=AceAkira1017&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AceAkira1017&theme=nightowl" />
 </div>
-<details/>
 
 <br/><br/>
 <hr/>
