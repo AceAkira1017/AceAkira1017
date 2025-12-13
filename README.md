@@ -58,16 +58,20 @@
 
 <hr/>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aceakira1017&theme=nightowl" />
-</p>
+<details open align="center">
+<summary><b>↓ ⚡ Stats ⚡ ↓</b></summary>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br/>
 <div align="center">
   <img width=390 height=153.63 src="https://github-readme-streak-stats-humbas-projects.vercel.app?user=AceAkira1017&theme=merko&border_radius=7.4" alt="streak stats"/>
   <img width=390 height=153.63 src="https://git-readme-statz-humbas-projects.vercel.app/api?username=AceAkira1017&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=390 height=153.63 align="center" src="https://git-readme-statz-humbas-projects.vercel.app/api/top-langs/?username=AceAkira1017&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AceAkira1017&theme=nightowl" />
 </div>
+<details/>
 
 <br/><br/>
+<hr/>
+
+<p align="center">
+  <i>"Started young, dreaming big, and coding every day."</i>
+</p>
