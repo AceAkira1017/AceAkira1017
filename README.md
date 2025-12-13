@@ -126,15 +126,6 @@
 
 <br/><br/>
 
-<hr/>
-
-<h2 align="center">🌍 Visitors by Country 🌍</h2>
-<div align="center">
-  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.people.svg" alt="Visitors by country" />
-</div>
-
-<hr/>
-
 <br/>
 
 <div align="center">
