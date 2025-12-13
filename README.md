@@ -1,4 +1,4 @@
-booru-smtg[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 <img align="center" src="https://i.postimg.cc/NjdVJL7y/KIROKAZE.gif" style="border-radius: 10px;"/>
 
