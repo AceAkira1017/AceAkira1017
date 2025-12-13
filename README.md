@@ -21,11 +21,6 @@
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <br>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aceakira1017&theme=nightowl" />
-</p>
-
-
 ---------
 
 <h1 align="center">
@@ -36,9 +31,9 @@
 
 <div>
  
- <h5 align="left"> 
+ <h2 align="left"> 
       🌱 About Me
- </h5>
+ </h2>
 
  🎓 **Student (Age 15)** passionate about technology and coding
 
@@ -108,6 +103,10 @@
 </div>
 
 <hr/>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aceakira1017&theme=nightowl" />
+</p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
