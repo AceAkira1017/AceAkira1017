@@ -5,7 +5,7 @@
 </h1><h3 align="center">
   15 y/o Aspiring <b>Software Developer</b> & <b>Web Developer</b> from the Philippines 🇵🇭
 </h3>
----------
+</br>
 
 🌱 About Me
 
@@ -19,7 +19,7 @@
 
 
 
----------
+</hr>
 
 🛠️ Tech Stack
 
@@ -32,14 +32,14 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 </p>
----------
+</hr>
 
 ⚒️ Languages, Frameworks & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,express,python,java,mongodb,mysql,git,github,vscode,figma,tailwind" />
 </p>
----------
+</hr>
 
 📊 Skill Progress (Self‑Learning)
 
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow" />
   <img src="https://img.shields.io/badge/Node.js-Beginner-green" />
 </p>
----------
+</hr>
 
 📈 GitHub Stats
 
@@ -59,21 +59,21 @@
 </p><p align="center">
   <img src="https://git-readme-statz-humbas-projects.vercel.app/api/top-langs/?username=AceAkira1017&layout=compact&theme=react&border_radius=10" width="325" />
 </p>
----------
+</hr>
 
 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/jonvicbarcenas/jonvicbarcenas/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
----------
+</hr>
 
 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AceAkira1017&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
----------
+</hr>
 
 🎧 Spotify (Coding Vibes)
 
@@ -82,7 +82,7 @@
     <img src="https://now-playing-on-spotify.vercel.app/api/spotify" width="350" />
   </a>
 </p>
----------
+</br>
 
 📬 Connect With Me
 
@@ -94,7 +94,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
----------
+</hr>
 
 <p align="center">
   <i>"Started young, dreaming big, and coding every day."</i>
