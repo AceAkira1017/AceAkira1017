@@ -5,7 +5,7 @@
 ---------
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1200&pause=900&color=00FF88&center=true&vCenter=true&width=600&height=80&lines=Hi+There!+%F0%9F%91%8B+;I'm+Ace+Gerome+Cala-ay+;15+y%2Fo+;Aspiring+to+be+Software+Developer;and+Web+Developer." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1200&pause=900&color=00FF88&width=600&height=70&lines=Hey!+I'm+Ace+%F0%9F%91%8B;15+y%2Fo%2C+Coder;Dream.+Code.+Repeat.+;Future+Web+Developer+;Software+Developer." />
 </h1>
 
 <br/>
