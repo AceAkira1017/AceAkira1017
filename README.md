@@ -60,7 +60,7 @@
 
 <details open align="center">
 <summary><b>↓ ⚡ Stats ⚡ ↓</b></summary>
-
+<br/>
 <div align="center">
   <img width=390 height=153.63 src="https://github-readme-streak-stats-humbas-projects.vercel.app?user=AceAkira1017&theme=merko&border_radius=7.4" alt="streak stats"/>
   <img width=390 height=153.63 src="https://git-readme-statz-humbas-projects.vercel.app/api?username=AceAkira1017&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
