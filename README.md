@@ -70,7 +70,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AceAkira1017&theme=nightowl" />
 </div>
 </details>
-<br/><br/>
+<br/>
 <hr/>
 
 <p align="center">
